@@ -2,7 +2,7 @@ version: '3'
 
 services:
 ###> doctrine/doctrine-bundle ###
-  database:
+  korea_trips_pictures_db:
     ports:
       - "5432"
 ###< doctrine/doctrine-bundle ###
